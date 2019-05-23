@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TalendMetadata:FTPConnection xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmi:id="_iBM_YO8TEeiyy-OUFWA4oQ" Host="10.11.15.195" Port="21" Username="astelia" Password="xdAJcRvzZSJO7GcZYq2Bpg==" Mode="Passive" Ecoding="ISO-8859-15" Method="" KeystoreFile="" KeystorePassword="" Proxyhost="" Proxyport="" Proxyuser="" Proxypassword="" CustomEncode="ISO-8859-15"/>
